@@ -1,0 +1,4 @@
+Neal Zhao (nzhao04)
+Spend 40 hours. 
+
+Collaborators: lectures and assignment from CS30 which tought me to use GridSearchSV. 
